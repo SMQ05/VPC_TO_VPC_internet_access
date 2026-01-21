@@ -1,7 +1,6 @@
 # SMQ05: AWS Multi-VPC Transit Gateway Architecture
 
 ![Untitled Diagram](https://github.com/user-attachments/assets/ba657a81-d633-466c-a962-2ce6c20315d8)
-*> Note: Ensure the diagram image is in the same folder as this README or update the path above.*
 
 ## 📋 Project Overview
 **SMQ05** demonstrates a secure, scalable "Hub-and-Spoke" network topology on AWS. 
