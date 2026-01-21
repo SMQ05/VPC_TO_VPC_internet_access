@@ -1,6 +1,4 @@
-Goal: Technical documentation and reproducibility. Tone: Concise, instructional, and structured.
-
-Title: AWS Multi-VPC Transit Gateway Network Subtitle: A secure hub-and-spoke network topology using AWS Transit Gateway and Centralized Egress.
+AWS Multi-VPC Transit Gateway Network Subtitle: A secure hub-and-spoke network topology using AWS Transit Gateway and Centralized Egress.
 
 
 ## Project Overview: This project demonstrates a scalable AWS network architecture designed to isolate private workloads while maintaining secure administrative access and internet connectivity for updates.
